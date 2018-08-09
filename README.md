@@ -1,5 +1,6 @@
-This is a modified version of Allegro library (branch 4.4)
-specially patched for Aseprite by David Capello.
+This is a modified version of Allegro library (branch 4.4) specially
+patched for old versions of
+[Aseprite](https://github.com/aseprite/aseprite/) by David Capello.
 
 Changes:
 
@@ -15,4 +16,4 @@ Changes:
 * Fixed issues recreating DirectX surfaces
 * Fixed OS X mouse issues
 * Support for x64
-* Several [other changes](https://github.com/aseprite/aseprite/commits/master/src/allegro)
+* Several [other changes](https://github.com/aseprite/allegro/commits/master)
